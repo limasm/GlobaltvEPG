@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.24 -- Jan van Straaten" site="jkt.firstmedia.com">
+  <channels> 
+    <channel update="i" site="jkt.firstmedia.com" site_id="hbo" xmltv_id="HBO">DUAL | HBO FHD</channel>
+  </channels>
+</site>
